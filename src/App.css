@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  font-family: Kanit, serif;
+  align-items: center;
+  align-content: center;
 }
 
 .App-logo {
@@ -35,4 +38,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+.menuButton {
+  margin-right: spacing(2);
+}
+.h {
+  height: 70px;
+  background-color: darkcyan;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
