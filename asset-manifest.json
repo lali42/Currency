@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Currency/static/css/main.a607911d.chunk.css",
-    "main.js": "/Currency/static/js/main.a8932fc7.chunk.js",
-    "main.js.map": "/Currency/static/js/main.a8932fc7.chunk.js.map",
+    "main.css": "/Currency/static/css/main.05a40937.chunk.css",
+    "main.js": "/Currency/static/js/main.bb34dc03.chunk.js",
+    "main.js.map": "/Currency/static/js/main.bb34dc03.chunk.js.map",
     "runtime-main.js": "/Currency/static/js/runtime-main.01154f12.js",
     "runtime-main.js.map": "/Currency/static/js/runtime-main.01154f12.js.map",
     "static/js/2.f46d148e.chunk.js": "/Currency/static/js/2.f46d148e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9ae3c3ec.chunk.js": "/Currency/static/js/3.9ae3c3ec.chunk.js",
     "static/js/3.9ae3c3ec.chunk.js.map": "/Currency/static/js/3.9ae3c3ec.chunk.js.map",
     "index.html": "/Currency/index.html",
-    "static/css/main.a607911d.chunk.css.map": "/Currency/static/css/main.a607911d.chunk.css.map",
+    "static/css/main.05a40937.chunk.css.map": "/Currency/static/css/main.05a40937.chunk.css.map",
     "static/js/2.f46d148e.chunk.js.LICENSE.txt": "/Currency/static/js/2.f46d148e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Currency/static/media/Kanit-Light.68ccb9c4.ttf",
     "static/media/logo.6ce24c58.svg": "/Currency/static/media/logo.6ce24c58.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.01154f12.js",
     "static/js/2.f46d148e.chunk.js",
-    "static/css/main.a607911d.chunk.css",
-    "static/js/main.a8932fc7.chunk.js"
+    "static/css/main.05a40937.chunk.css",
+    "static/js/main.bb34dc03.chunk.js"
   ]
 }
